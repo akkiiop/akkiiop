@@ -121,14 +121,14 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akkiiop&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=e2e8f0&icon_color=10b981&border_color=1f2937&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkiiop&layout=compact&bg_color=0d1117&title_color=10b981&text_color=e2e8f0&border_color=1f2937&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akkiiop&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=ffffff&icon_color=10b981&border_color=1f2937&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkiiop&layout=compact&bg_color=0d1117&title_color=10b981&text_color=ffffff&border_color=1f2937&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akkiiop&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akkiiop&background=0d1117&border=1f2937&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=e2e8f0&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -158,9 +158,9 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
     </td>
     <td align="center" width="300">
       <br />
-      <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="30" />
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="30" />
       <h3><a href="https://github.com/akkiiop/Nutralyze">Nutralyze</a></h3>
-      <p>AI-based personalized nutrition &amp; food safety system with recommendation engine &amp; ingredient analysis.</p>
+      <p>AI-powered personalized nutrition &amp; food safety web application built with the MERN stack.</p>
       <img src="https://img.shields.io/github/stars/akkiiop/Nutralyze?style=flat&color=10B981" />
       <img src="https://img.shields.io/github/forks/akkiiop/Nutralyze?style=flat&color=10B981" />
       <br /><br />
