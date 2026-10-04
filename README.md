@@ -134,12 +134,10 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 
-## 📈 Activity & Contribution
+## 📈 Contribution Graph
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akkiiop&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://raw.githubusercontent.com/akkiiop/akkiiop/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
@@ -193,11 +191,6 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
-
-<!-- Snake contribution animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akkiiop/akkiiop/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <!-- Footer wave -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A1810,40:113822,75:15803D,100:10B981&height=100&section=footer)
