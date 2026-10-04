@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems+⚡;Computer+Engineering+Graduate+🎓;Java+21+%7C+Spring+Boot+%7C+Spring+Data+JPA+%7C+MySQL;Designing+clean+REST+APIs+%26+microservices+🛠️;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=akkiiop&style=for-the-badge&color=10B981)
+[![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fakkiiop%2Fakkiiop.json&style=for-the-badge&color=10B981&label=PROFILE%20VIEWS)](https://github.com/akkiiop)
 [![GitHub followers](https://img.shields.io/github/followers/akkiiop?style=for-the-badge&color=10B981)](https://github.com/akkiiop)
 
 </div>
