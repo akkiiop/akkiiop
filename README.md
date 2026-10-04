@@ -18,7 +18,7 @@
 
 Computer Engineering graduate from **Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar 🇮🇳** with a **CGPA of 8.43**, passionate about building reliable backend architectures, high-performance REST APIs, and developer-first CLI tools.
 
-Served as **Treasurer** for the **Computer Engineering Association of Students (CEAS)**, managing association finances and coordinating technical events.
+
 
 I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**, turning complex real-world requirements into clean, scalable, and maintainable software solutions.
 
