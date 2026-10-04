@@ -34,13 +34,11 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
   <tr>
     <td align="center" width="120"><b>Java</b></td>
     <td align="center" width="120"><b>JavaScript</b></td>
-    <td align="center" width="120"><b>C++</b></td>
     <td align="center" width="120"><b>SQL</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=java" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></td>
   </tr>
 </table>
@@ -50,17 +48,19 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
   <tr>
     <td align="center" width="120"><b>Spring</b></td>
     <td align="center" width="120"><b>Spring Boot</b></td>
-    <td align="center" width="120"><b>Hibernate</b></td>
+    <td align="center" width="120"><b>Spring MVC</b></td>
     <td align="center" width="120"><b>Spring Security</b></td>
     <td align="center" width="120"><b>Spring Data JPA</b></td>
+    <td align="center" width="120"><b>Hibernate</b></td>
     <td align="center" width="120"><b>REST API</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="50" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="40" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" height="40" /></td>
     <td align="center"><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" /></td>
   </tr>
 </table>
@@ -85,33 +85,43 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
 <table align="center">
   <tr>
     <td align="center" width="120"><b>MySQL</b></td>
-    <td align="center" width="120"><b>PostgreSQL</b></td>
     <td align="center" width="120"><b>MongoDB</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50" /></td>
   </tr>
 </table>
 
-### 🛠️ Tools & IDEs
+### 🧪 Testing
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>JUnit 5</b></td>
+    <td align="center" width="120"><b>Mockito</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Mockito-78A75A?style=for-the-badge&logoColor=white" height="40" /></td>
+  </tr>
+</table>
+
+### 🛠️ Tools & Development
 <table align="center">
   <tr>
     <td align="center" width="120"><b>Git</b></td>
     <td align="center" width="120"><b>GitHub</b></td>
-    <td align="center" width="120"><b>IntelliJ IDEA</b></td>
-    <td align="center" width="120"><b>VS Code</b></td>
-    <td align="center" width="120"><b>Postman</b></td>
     <td align="center" width="120"><b>Maven</b></td>
+    <td align="center" width="120"><b>Postman</b></td>
+    <td align="center" width="120"><b>Eclipse</b></td>
+    <td align="center" width="120"><b>Picocli</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=idea" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="50" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="50" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=maven" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" height="50" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" height="50" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Picocli-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" /></td>
   </tr>
 </table>
 
