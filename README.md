@@ -22,7 +22,7 @@ Computer Engineering graduate from **Dr. Vithalrao Vikhe Patil College of Engine
 
 I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**, turning complex real-world requirements into clean, scalable, and maintainable software solutions.
 
-> 🎯 **Seeking:** Java Developer / Spring Boot / Backend Engineer roles &nbsp;|&nbsp; 🤝 **Open to:** Open Source collaborations  
+> 🎯 **Seeking:** Java Developer / Spring Boot / Backend Engineer roles &nbsp;|&nbsp;   
 > 📍 **Location:** Ahmednagar / Pune, India &nbsp;|&nbsp; 📧 [kawadeakshay23@gmail.com](mailto:kawadeakshay23@gmail.com)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
