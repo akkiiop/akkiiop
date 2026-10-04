@@ -93,6 +93,20 @@ I specialize in **Java 21**, **Spring Boot**, **Spring Data JPA**, and **MySQL**
   </tr>
 </table>
 
+### ☁️ Cloud & Deployment
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>AWS</b></td>
+    <td align="center" width="120"><b>Amazon EC2</b></td>
+    <td align="center" width="120"><b>Amazon RDS</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="50" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="40" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" height="40" /></td>
+  </tr>
+</table>
+
 ### 🧪 Testing
 <table align="center">
   <tr>
